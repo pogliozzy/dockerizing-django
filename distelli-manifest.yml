@@ -1,4 +1,4 @@
-<-username->/dockerizing-django:
+pogliozzy/dockerizing-django:
   PkgInclude:
     - '*'
   PreInstall:
